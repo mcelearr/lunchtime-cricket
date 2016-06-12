@@ -1,5 +1,7 @@
 # Lunchtime Cricket Honours Board
 
+[![Join the chat at https://gitter.im/mcelearr/lunchtime-cricket](https://badges.gitter.im/mcelearr/lunchtime-cricket.svg)](https://gitter.im/mcelearr/lunchtime-cricket?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A visual representation of cricket scores from FAC cricket to practice manipulating the DOM with vanilla javascript and layouts with vanilla CSS in the form of an Honours Board.
 
 ## Honours Board
