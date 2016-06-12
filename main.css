@@ -1,0 +1,15 @@
+body {
+  font-family: veranda, sans-serif;
+}
+
+.data-table {
+  width: 50%;
+}
+
+#data-table , th, td {
+  border: 1px solid black;
+}
+
+#data-table {
+  border-collapse: collapse;
+}
