@@ -1,4 +1,4 @@
-var createTable = function(){
+var createHonoursBoard = function(){
   var table = document.getElementById("data-table");
 
   var header = table.createTHead();
@@ -23,4 +23,4 @@ var createTable = function(){
   }
 }
 
-createTable();
+createHonoursBoard();
