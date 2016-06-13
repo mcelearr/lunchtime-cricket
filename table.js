@@ -12,14 +12,14 @@ var createTable = function(){
 
   var body = table.appendChild(document.createElement('tbody'));
 
-  for (var i = 0; i < database.length; i++) {
+  for (var i = 0; i < honoursBoard.length; i++) {
     var row = body.insertRow();
     var cell1 = row.insertCell(0);
     var cell2 = row.insertCell(1);
     var cell3 = row.insertCell(2);
-    cell1.innerHTML = database[i].name;
-    cell2.innerHTML = database[i].score;
-    cell3.innerHTML = database[i].date;
+    cell1.innerHTML = honoursBoard[i].name;
+    cell2.innerHTML = honoursBoard[i].score;
+    cell3.innerHTML = honoursBoard[i].date;
   }
 }
 

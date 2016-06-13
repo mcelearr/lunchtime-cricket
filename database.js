@@ -1,4 +1,4 @@
-var database =
+var honoursBoard =
 [
   { "name": "Rich", "score": 13, "date": "01/06/16", "colour": "green" },
   { "name": "Rory", "score": 10, "date": "01/06/16", "colour": "red" },
