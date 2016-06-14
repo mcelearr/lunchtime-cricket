@@ -2,8 +2,13 @@ body {
   font-family: veranda, sans-serif;
 }
 
+.data-tables {
+  width: 100%;
+}
+
 .data-table {
-  width: 50%;
+  width: 48%;
+  display: inline-block;
 }
 
 #data-table , th, td {
@@ -11,5 +16,13 @@ body {
 }
 
 #data-table {
+  border-collapse: collapse;
+}
+
+#wall-of-shame , th, td {
+  border: 1px solid black;
+}
+
+#wall-of-shame {
   border-collapse: collapse;
 }
